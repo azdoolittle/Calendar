@@ -22,7 +22,7 @@
 
 | Action       | endpoint      | method  |  description                         |  
 | ------------ |:-------------:| -------:|-------------------------------------:|  
-| **Create**   | /calendar/new | POST    | create calendar information for id   |  
+| **Create**   | /calendar/    | POST    | create calendar information for id   |  
 | **Read**     | /calendar/:id | GET     | read calendar information for id     |  
 | **Update**   | /calendar/:id | PUT     | update calendar information for id   |  
 | **Delete**   | /calendar/:id | DELETE  | delete calendar information for id   |  
